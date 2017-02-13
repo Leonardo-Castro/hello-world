@@ -1,0 +1,13 @@
+C:\Users\Leo\Desktop\temp\CitadelCypher\CitadelCypher\bin\Release\CitadelCypher.exe.config
+C:\Users\Leo\Desktop\temp\CitadelCypher\CitadelCypher\obj\Release\CitadelCypher.exe
+C:\Users\Leo\Desktop\temp\CitadelCypher\CitadelCypher\obj\Release\CitadelCypher.pdb
+C:\Users\Leo\Desktop\temp\CitadelCypher\CitadelCypher\bin\Release\VideoGamesDB.mdf
+C:\Users\Leo\Desktop\temp\CitadelCypher\CitadelCypher\bin\Release\VideoGamesDB_log.ldf
+C:\Users\Leo\Desktop\temp\CitadelCypher\CitadelCypher\bin\Release\CitadelCypher.exe
+C:\Users\Leo\Desktop\temp\CitadelCypher\CitadelCypher\bin\Release\CitadelCypher.pdb
+C:\Users\Leo\Desktop\temp\CitadelCypher\CitadelCypher\bin\Release\Brain.dll
+C:\Users\Leo\Desktop\temp\CitadelCypher\CitadelCypher\bin\Release\Brain.pdb
+C:\Users\Leo\Desktop\temp\CitadelCypher\CitadelCypher\obj\Release\VideoGameMuseum.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\temp\CitadelCypher\CitadelCypher\obj\Release\VideoGameMuseum.VideoGameMuseum.resources
+C:\Users\Leo\Desktop\temp\CitadelCypher\CitadelCypher\obj\Release\VideoGameMuseum.Properties.Resources.resources
+C:\Users\Leo\Desktop\temp\CitadelCypher\CitadelCypher\obj\Release\VideoGameMuseum.csproj.GenerateResource.Cache

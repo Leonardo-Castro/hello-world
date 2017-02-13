@@ -1,0 +1,27 @@
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\CitadelCypher\bin\Debug\CitadelCypher.exe.config
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\CitadelCypher\bin\Debug\CitadelCypher.exe
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\CitadelCypher\bin\Debug\CitadelCypher.pdb
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\CitadelCypher\bin\Debug\Brain.dll
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\CitadelCypher\bin\Debug\Brain.pdb
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.csprojResolveAssemblyReference.cache
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.Properties.Resources.resources
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.csproj.GenerateResource.Cache
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.exe
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.pdb
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.CitadelCypher.resources
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\CitadelCypher\bin\Debug\CitadelCypher.exe.config
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.exe
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.pdb
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\CitadelCypher\bin\Debug\DataBase.mdf
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\CitadelCypher\bin\Debug\DataBase_log.ldf
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\CitadelCypher\bin\Debug\CitadelCypher.exe
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\CitadelCypher\bin\Debug\CitadelCypher.pdb
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\CitadelCypher\bin\Debug\Brain.dll
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\CitadelCypher\bin\Debug\Brain.pdb
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.CitadelCypher.resources
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.Properties.Resources.resources
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.csproj.GenerateResource.Cache
+C:\Users\Leo\Pictures\CitadelCypher\CitadelCypher\bin\Debug\CitadelCypher.exe.config
+C:\Users\Leo\Pictures\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.exe
+C:\Users\Leo\Pictures\CitadelCypher\CitadelCypher\obj\Debug\CitadelCypher.pdb
