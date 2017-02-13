@@ -1,0 +1,29 @@
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\Brain\bin\Release\Brain.dll
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\Brain\bin\Release\Brain.pdb
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\Brain\obj\Release\Brain.dll
+c:\users\leo\documents\visual studio 2013\Projects\CitadelCypher\Brain\obj\Release\Brain.pdb
+C:\Users\Leo\documents\visual studio 2013\Projects\CitadelCypher\Brain\obj\Release\Brain.csprojResolveAssemblyReference.cache
+C:\Users\Leo\documents\visual studio 2013\Projects\CitadelCypher\Brain\bin\Release\Database1.mdf
+C:\Users\Leo\documents\visual studio 2013\Projects\CitadelCypher\Brain\bin\Release\Database1_log.ldf
+C:\Users\Leo\documents\visual studio 2013\Projects\CitadelCypher\Brain\bin\Release\Brain.dll.config
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\Brain\bin\Release\DataBase.mdf
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\Brain\bin\Release\DataBase_log.ldf
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\Brain\bin\Release\Brain.dll.config
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\Brain\bin\Release\Brain.dll
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\Brain\bin\Release\Brain.pdb
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\Brain\obj\Release\Brain.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\Brain\obj\Release\Brain.dll
+C:\Users\Leo\Desktop\Fall Classes\Business Programming\CitadelCypher\Brain\obj\Release\Brain.pdb
+C:\Users\Leo\Desktop\temp\CitadelCypher\Brain\bin\Release\VideoGamesDB.mdf
+C:\Users\Leo\Desktop\temp\CitadelCypher\Brain\bin\Release\VideoGamesDB_log.ldf
+C:\Users\Leo\Desktop\temp\CitadelCypher\Brain\bin\Release\Brain.dll.config
+C:\Users\Leo\Desktop\temp\CitadelCypher\Brain\bin\Release\Brain.dll
+C:\Users\Leo\Desktop\temp\CitadelCypher\Brain\bin\Release\Brain.pdb
+C:\Users\Leo\Desktop\temp\CitadelCypher\Brain\obj\Release\Brain.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\temp\CitadelCypher\Brain\obj\Release\Brain.CompanyTable.resources
+C:\Users\Leo\Desktop\temp\CitadelCypher\Brain\obj\Release\Brain.ConsoleTable.resources
+C:\Users\Leo\Desktop\temp\CitadelCypher\Brain\obj\Release\Brain.GameTable.resources
+C:\Users\Leo\Desktop\temp\CitadelCypher\Brain\obj\Release\Brain.IndustryPersonalityTable.resources
+C:\Users\Leo\Desktop\temp\CitadelCypher\Brain\obj\Release\Brain.csproj.GenerateResource.Cache
+C:\Users\Leo\Desktop\temp\CitadelCypher\Brain\obj\Release\Brain.dll
+C:\Users\Leo\Desktop\temp\CitadelCypher\Brain\obj\Release\Brain.pdb
